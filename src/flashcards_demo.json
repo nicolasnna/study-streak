@@ -1,0 +1,566 @@
+[
+  {
+    "id": "_23e6bd64",
+    "question": "¿Cuál es la capital de Francia?",
+    "answer": "París",
+    "tags": [
+      "geografía",
+      "europeo"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:00:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_8ac9f53b",
+    "question": "¿Qué significa 'apple' en español?",
+    "answer": "Manzana",
+    "tags": [
+      "idiomas",
+      "vocabulario",
+      "inglés"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:01:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_aeaf8a04",
+    "question": "¿Cuál es el resultado de 7 x 8?",
+    "answer": "56",
+    "tags": [
+      "matemáticas",
+      "multiplicación"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:02:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_6ef9833c",
+    "question": "¿Quién escribió 'Cien años de soledad'?",
+    "answer": "Gabriel García Márquez",
+    "tags": [
+      "literatura",
+      "latinoamérica"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:03:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_47e37c22",
+    "question": "¿Qué lenguaje se ejecuta en el navegador web?",
+    "answer": "JavaScript",
+    "tags": [
+      "programación",
+      "frontend"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:04:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_66cf401a",
+    "question": "¿Qué planeta es conocido como el planeta rojo?",
+    "answer": "Marte",
+    "tags": [
+      "ciencia",
+      "astronomía"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:05:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_b15cf119",
+    "question": "¿Cómo se dice 'perro' en inglés?",
+    "answer": "Dog",
+    "tags": [
+      "idiomas",
+      "vocabulario",
+      "inglés"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:06:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_2ca5ae1f",
+    "question": "¿Cuál es el elemento químico con símbolo O?",
+    "answer": "Oxígeno",
+    "tags": [
+      "química",
+      "ciencia"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:07:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_ef5cfa80",
+    "question": "¿Qué año comenzó la Segunda Guerra Mundial?",
+    "answer": "1939",
+    "tags": [
+      "historia",
+      "siglo XX"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:08:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_8909a8eb",
+    "question": "¿Qué operador se usa para asignación en Python?",
+    "answer": "=",
+    "tags": [
+      "programación",
+      "python"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:09:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_1a47c0a5",
+    "question": "¿Cómo se dice 'gracias' en francés?",
+    "answer": "Merci",
+    "tags": [
+      "idiomas",
+      "francés",
+      "vocabulario"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:10:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_07642bf0",
+    "question": "¿Cuánto es la raíz cuadrada de 144?",
+    "answer": "12",
+    "tags": [
+      "matemáticas",
+      "álgebra"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:11:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_52896a2e",
+    "question": "¿Cuál es el idioma más hablado del mundo por hablantes nativos?",
+    "answer": "Chino mandarín",
+    "tags": [
+      "idiomas",
+      "cultura general"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:12:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_e1c71c46",
+    "question": "¿Qué hace la función `console.log()` en JavaScript?",
+    "answer": "Imprime en la consola",
+    "tags": [
+      "programación",
+      "javascript"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:13:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_0c17e094",
+    "question": "¿Qué órgano del cuerpo humano bombea sangre?",
+    "answer": "El corazón",
+    "tags": [
+      "biología",
+      "ciencia"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:14:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_bdcea4ab",
+    "question": "¿Cuánto es 2 elevado a la 5?",
+    "answer": "32",
+    "tags": [
+      "matemáticas",
+      "potencias"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:15:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_d43c141c",
+    "question": "¿Quién pintó La última cena?",
+    "answer": "Leonardo da Vinci",
+    "tags": [
+      "arte",
+      "historia"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:16:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_b1ae9148",
+    "question": "¿Qué significa `NaN` en programación?",
+    "answer": "Not a Number",
+    "tags": [
+      "programación",
+      "javascript"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:17:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_9bc72534",
+    "question": "¿Cuál es la fórmula del agua?",
+    "answer": "H2O",
+    "tags": [
+      "química",
+      "ciencia"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:18:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_143d9522",
+    "question": "¿En qué continente está Egipto?",
+    "answer": "África",
+    "tags": [
+      "geografía",
+      "cultura general"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:19:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_53be2951",
+    "question": "¿Cuál es el valor de pi (aproximado a 2 decimales)?",
+    "answer": "3.14",
+    "tags": [
+      "matemáticas",
+      "constantes"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:20:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_548c78b6",
+    "question": "¿Qué país tiene forma de bota?",
+    "answer": "Italia",
+    "tags": [
+      "geografía",
+      "Europa"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:21:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_418da190",
+    "question": "¿Qué tipo de sangre es el donante universal?",
+    "answer": "O negativo",
+    "tags": [
+      "biología",
+      "salud"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:22:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_1e15207e",
+    "question": "¿Qué es HTML?",
+    "answer": "Lenguaje de marcado de hipertexto",
+    "tags": [
+      "programación",
+      "web"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:23:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_b630778b",
+    "question": "¿Qué significa CPU?",
+    "answer": "Unidad Central de Procesamiento",
+    "tags": [
+      "tecnología",
+      "hardware"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:24:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_16cc4c91",
+    "question": "¿Quién fue el primer presidente de EE.UU.?",
+    "answer": "George Washington",
+    "tags": [
+      "historia",
+      "EE.UU."
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:25:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_9aeb648e",
+    "question": "¿Qué gas respiramos para vivir?",
+    "answer": "Oxígeno",
+    "tags": [
+      "biología",
+      "ciencia"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:26:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_f0474e8b",
+    "question": "¿Cuál es el símbolo del oro en la tabla periódica?",
+    "answer": "Au",
+    "tags": [
+      "química",
+      "elementos"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:27:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_ee46dc33",
+    "question": "¿En qué país están las pirámides de Giza?",
+    "answer": "Egipto",
+    "tags": [
+      "historia",
+      "geografía"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:28:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_bc647188",
+    "question": "¿Qué instrumento mide los terremotos?",
+    "answer": "Sismógrafo",
+    "tags": [
+      "ciencia",
+      "instrumentos"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:29:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_3fbb3da0",
+    "question": "¿Cómo se dice 'libro' en inglés?",
+    "answer": "Book",
+    "tags": [
+      "idiomas",
+      "vocabulario",
+      "inglés"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:30:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_68ae7174",
+    "question": "¿Qué número romano representa 100?",
+    "answer": "C",
+    "tags": [
+      "historia",
+      "números romanos"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:31:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_8773a3d6",
+    "question": "¿Qué animal es conocido como el rey de la selva?",
+    "answer": "León",
+    "tags": [
+      "biología",
+      "animales"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:32:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_84016bce",
+    "question": "¿Qué significa HTTP?",
+    "answer": "Protocolo de Transferencia de Hipertexto",
+    "tags": [
+      "tecnología",
+      "web"
+    ],
+    "difficulty": "hard",
+    "created_at": "6/8/2025, 4:33:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_54490532",
+    "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "answer": "Miguel de Cervantes",
+    "tags": [
+      "literatura",
+      "clásicos"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:34:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_156be847",
+    "question": "¿Cuántos continentes hay?",
+    "answer": "7",
+    "tags": [
+      "geografía",
+      "cultura general"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:35:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_ab232013",
+    "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "answer": "Fémur",
+    "tags": [
+      "biología",
+      "anatomía"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:36:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_6f2bbf9d",
+    "question": "¿Qué país tiene más población?",
+    "answer": "China",
+    "tags": [
+      "geografía",
+      "demografía"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:37:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_4cd39f71",
+    "question": "¿Qué energía se obtiene del sol?",
+    "answer": "Energía solar",
+    "tags": [
+      "ciencia",
+      "energía"
+    ],
+    "difficulty": "easy",
+    "created_at": "6/8/2025, 4:38:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  },
+  {
+    "id": "_73870600",
+    "question": "¿Qué es un byte?",
+    "answer": "Unidad de almacenamiento digital",
+    "tags": [
+      "tecnología",
+      "informática"
+    ],
+    "difficulty": "medium",
+    "created_at": "6/8/2025, 4:39:00 PM",
+    "updated_at": "",
+    "comments": "",
+    "revision_frequency": 0
+  }
+]

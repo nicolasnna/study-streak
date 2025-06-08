@@ -33,11 +33,15 @@ export const updateCardLocal = (cardUpdated) => {
 export const getCardLocal = () => {
   const cardsLocal = localStorage.getItem("flashCards")
   if (cardsLocal) {
-    const saved = JSON.parse(cardsLocal)
-    const savedValidated = Array.isArray(saved) ? saved : [saved]
-    return savedValidated
+    try {
+      const saved = JSON.parse(cardsLocal)
+      const savedValidated = Array.isArray(saved) ? saved : [saved]
+      return savedValidated
+    } catch {
+      return []
+    }
   }
-  return []
+  return null
 }
 
 export const setCategoryLocal = (categories) => {

@@ -14,19 +14,28 @@ import {
   getCardLocal,
   getCategoryLocal,
   getStadisticLocal,
+  setCardLocal,
 } from "@utils/localStorage"
 import { useEffect } from "react"
 import { useDispatch } from "react-redux"
 import { Route, Routes } from "react-router-dom"
+import dataDemo from './flashcards_demo.json'
 
 function App() {
   const dispatch = useDispatch()
 
   useEffect(() => {
-    dispatch(setCards(getCardLocal()))
+    const cardsSaved = getCardLocal()
+    if (!cardsSaved) {
+      dispatch(setCards(dataDemo))
+      setCardLocal(dataDemo)
+    } else {
+      dispatch(setCards(cardsSaved))
+    }
     dispatch(setCategories(getCategoryLocal()))
     dispatch(setStadistic(...getStadisticLocal()))
-  }, [dispatch])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   return (
     <div className="content">
